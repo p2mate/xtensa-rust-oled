@@ -1,9 +1,10 @@
 # Simple program to drive SSD1306 display on ESP32
 
-# Pre-requisites
+# Prerequisites
 
 * [ESPFlash](https://github.com/esp-rs/espflash)
 * [rust-xtensa](https://github.com/MabezDev/rust-xtensa)
+* [GCC toolchain for xtensa](https://dl.espressif.com/dl/xtensa-esp32-elf-gcc8_4_0-esp-2020r3-linux-amd64.tar.gz)
 * SSD1306 connected via I2C
 
 # Configuration
